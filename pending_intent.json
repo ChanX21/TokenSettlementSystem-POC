@@ -1,0 +1,12 @@
+{
+  "intent": {
+    "user": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+    "tokenIn": "0x5fbdb2315678afecb367f032d93f642f64180aa3",
+    "amountIn": "10000000000000000000",
+    "tokenOut": "0xe7f1725e7734ce288f8367e1bb143e90bb3f0512",
+    "amountOut": "200000000000000000000",
+    "nonce": "1",
+    "deadline": "1766747782"
+  },
+  "signature": "0x1e1cc8bd8de7fe28eb6a3aba58158a3f58a83e3d6e4d9c7361d3986d837ece530245731fa98ff3c3affea5cac087e7eef6d02c841cf94ac9e38cbfcd4078dcf61b"
+}
